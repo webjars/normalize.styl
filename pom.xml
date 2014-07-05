@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>normalize.styl</artifactId>
-    <version>3.0.0</version>
+    <version>3.0.1-SNAPSHOT</version>
     <name>normalize.styl</name>
     <description>WebJar for normalize.styl</description>
     <url>http://webjars.org</url>
@@ -44,7 +44,7 @@
         <url>http://github.com/webjars/normalize.styl</url>
         <connection>scm:git:https://github.com/webjars/normalize.styl.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/normalize.styl.git</developerConnection>
-        <tag>normalize.styl-3.0.0</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <build>
